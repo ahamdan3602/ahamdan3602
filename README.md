@@ -69,6 +69,16 @@ I'm a passionate computer science student at the University of Western Ontario, 
     />
   </p>
 </div>
+<div>
+  <h2 align="center">GitHub Stats</h2>
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent"
+      ><img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent"
+        alt="GitHub Streak"
+    /></a>
+  </p>
+</div>
 
 <div id="badges" align="center">
     <h2 align="center">Social Media</h2>
@@ -80,6 +90,8 @@ I'm a passionate computer science student at the University of Western Ontario, 
   </a>
 
 </div>
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahamdan3602&color=blue&style=flat)
 
