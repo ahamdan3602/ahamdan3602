@@ -15,6 +15,7 @@ I'm a passionate computer science student at the University of Western Ontario, 
 - 🌱 I’m currently learning
   - [C++](https://www.learncpp.com/)
   - [ICP Blockchain Protocol (Motoko)](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction)
+  - [Assembler](https://www.csd.uwo.ca/misc/outlines/2022-Fall/2022-CS2208-a.pdf)
 
 <div>
   <h2 align="center">Technologies and Tools</h2>
