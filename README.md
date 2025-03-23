@@ -10,7 +10,7 @@
 
 I'm a passionate computer science student at the University of Western Ontario, who loves learning about technology and building exciting and scalable applications! I have experience working with various programming languages and technologies in multiple domains such as frontend, backend, and full-stack.
 
-- Currently working at Lawson Health Research Institute (St. Joseph's Hospital), as a Software Application Developer and Research Assistant.
+- 💨  Currently working at Lawson Health Research Institute (St. Joseph's Hospital), as a Software Application Developer and Research Assistant.
 
 - 🔭 I’m currently working on:
 
