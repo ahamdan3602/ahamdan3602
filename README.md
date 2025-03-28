@@ -76,7 +76,7 @@ I'm a passionate computer science student at the University of Western Ontario, 
 <p align="center">
   <a href="https://github.com/ahamdan3602/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=donut-vertical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&hide=html&theme=tokyonight&langs_count=6"
       alt="Top Langs"
     />
   </a>
