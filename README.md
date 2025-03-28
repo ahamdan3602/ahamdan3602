@@ -95,7 +95,6 @@ I'm a passionate computer science student at the University of Western Ontario, 
 </div>
 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ahamdan3602&color=blue&style=flat)
 
 
