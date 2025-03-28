@@ -72,14 +72,15 @@ I'm a passionate computer science student at the University of Western Ontario, 
   </p>
 </div>
 <div>
-  <h2 align="center">GitHub Stats</h2>
-  <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent"
-      ><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent"
-        alt="GitHub Streak"
-    /></a>
-  </p>
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent&include_all_commits=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&layout=compact&theme=transparent&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
 </div>
 
 <div id="badges" align="center">
