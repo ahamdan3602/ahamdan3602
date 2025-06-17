@@ -12,12 +12,10 @@ I'm a passionate computer science student at the University of Western Ontario, 
 
 - 💨  Currently working at Lawson Health Research Institute (St. Joseph's Hospital), as a Software Application Developer.
 
-- 🔭 I’m currently working on:
+<!-- - 🔭 I’m currently working on:
 
 - 🌱 I’m currently learning
-  - [C++](https://www.learncpp.com/)
-  - [Assembler](https://www.csd.uwo.ca/misc/outlines/2022-Fall/2022-CS2208-a.pdf)
-
+-->
 <div>
   <h2 align="center">Technologies and Tools</h2>
   <p align="center">
