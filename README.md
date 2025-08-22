@@ -10,12 +10,12 @@
 
 I'm a passionate computer science student at the University of Western Ontario, who loves learning about technology and building exciting and scalable applications! I have experience working with various programming languages and technologies in multiple domains such as frontend, backend, and full-stack.
 
-- 💨  Currently working at St. Joseph's Health Care London, as a Software Application Developer.
+- 🌱 Incoming Software Developer Intern @ BMO
 
-<!-- - 🔭 I’m currently working on:
+- 🔭 Prev @ SJHC
 
-- 🌱 I’m currently learning
--->
+- 💨  CS @ UWO
+
 <div>
   <h2 align="center">Technologies and Tools</h2>
   <p align="center">
