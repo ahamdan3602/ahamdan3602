@@ -11,7 +11,7 @@
 I'm a passionate computer science student at the University of Western Ontario, who loves learning about technology and building exciting and scalable applications! I have experience working with various programming languages and technologies in multiple domains such as frontend, backend, and full-stack.
 
 
-- 🔭 Prev SDE @ BMO, SJHC
+- 🔭 Prev SDE Intern @ BMO, SJHC
 
 - 💨  CS @ UWO
 
