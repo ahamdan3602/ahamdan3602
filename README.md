@@ -68,21 +68,10 @@ I'm a passionate computer science student at the University of Western Ontario, 
     />
   </p>
 </div>
-<div>
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/ahamdan3602/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamdan3602&hide=html&theme=tokyonight&langs_count=6"
-      alt="Top Langs"
-    />
-  </a>
-</p>
-</div>
 
 <div id="badges" align="center">
     <h2 align="center">Social Media</h2>
-  <a href="https://www.linkedin.com/in/abdul-hamdan/">
+  <a href="https://www.linkedin.com/in/ahamdan96/">
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&theme=transparent"
       alt="LinkedIn Badge"
